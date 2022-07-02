@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-[Live Site](https://your-live-site-url.com)
+[Live Site](https://meelix.github.io/frontendmentor-advice-generator-app/)
 
 ## My process
 
